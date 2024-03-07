@@ -1,31 +1,26 @@
+
 {
-    "name": "@hanmxyz/tiktaktoe_npm",
-    "version": "1.1.4",
-    "description": "📦 npm package tutorial",
-    "main": "index.js",
-    "scripts": {
-        "start": "node index.js"
-    },
+  "name": "@hanmxyz/tiktaktoe_npm",
+  "version": "1.1.4",
+  "description": "npm package tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
     "files": [
         "index.js"
-    ],
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/Hanmxyz/tiktaktoe_npm.git"
-    },
-    "keywords": [
-        "npm",
-        "publish",
-        "package",
-        "registry"
-    ],
-    "author": {
-        "name": "farhan M",
-        "email": "farhanm.xyz@gmail.com"
-    },
-    "license": "MIT",
-    "bugs": {
-        "url": "https://github.com/Hanmxyz/tiktaktoe_npm/issues"
-    },
-    "homepage": "https://github.com/Hanmxyz/tiktaktoe_npm#readme"
+   ],
+   "repository": {
+       "type": "git",
+       "url": "https://github.com/Hanmxyz/tiktaktoe_npm.git"
+  },
+
+  "keywords": [
+    "kata",
+    "kunci",
+    "untuk",
+    "proyek"
+  ],
+  "author": "farhan M",
+  "license": "MIT"
 }
